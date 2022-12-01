@@ -15,7 +15,20 @@ public class Bank_project {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello World!!");
+        bank icici=new bank();
+        bank sbi=new bank();
+        bank iob=new bank();
+        icici.name="ICICI Bank";
+        sbi.name="State Bank of India";
+        iob.name="Indian Overseas Bank";
+        icici.interest=7;
+        sbi.interest=8;
+        iob.interest=9;
+        icici.grt_loan();
+        sbi.grt_loan();
+        iob.grt_loan();
+        
+        
     }
     
 }
