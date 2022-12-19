@@ -18,7 +18,6 @@ class parent
         System.out.println(parent_name+" is "+parent_age+" years old and father.");
     }
 }
-
 public class child extends parent{
     
     String name;

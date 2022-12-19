@@ -20,4 +20,9 @@ public class Animal {
         name="LION";
         speed=60;
     }
+    Animal(int i)
+    {
+        name="TIGER";
+        speed=80;
+    }
 }

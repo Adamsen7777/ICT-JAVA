@@ -21,6 +21,7 @@ public class Inheritance {
         adam.name="Adamsen";
         adam.age=23;
         adam.get_age();
+        
         adam.parent_name="Raja";
         adam.parent_age=60;
         adam.get_parent();

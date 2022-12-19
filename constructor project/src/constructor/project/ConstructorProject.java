@@ -15,7 +15,7 @@ public class ConstructorProject {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Animal lion=new Animal();//  object
+        Animal lion=new Animal(18);//  object
         
         lion.animalspeed();  // method    
     }

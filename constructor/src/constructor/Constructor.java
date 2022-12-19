@@ -15,9 +15,12 @@ public class Constructor {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        name gayathri =new name();
+        lap macbook =new lap();
+        lap asus =  new lap();
         
-        gayathri.data();
+        macbook.dell();
+        
+        
     }
     
 }

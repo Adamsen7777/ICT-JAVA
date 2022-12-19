@@ -1,0 +1,2 @@
+wildanimal.lion
+wildanimal.animal
