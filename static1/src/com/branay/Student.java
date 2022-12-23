@@ -2,24 +2,16 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package innerclass;
+package com.branay;
 
 /**
  *
  * @author ADAMSEN BRANAY
  */
-public class Company {
-    String name ="BMW";
+public class Student {
     
-    class Vehicle{
-        String type = "CAR";
-        
-        
-//        2nd model
-        
-        public void name(){
-            System.out.println("company name " + name);
-        }
+    public static void number(){
+        System.out.println("my number is 7777");
     }
     
 }

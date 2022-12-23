@@ -2,35 +2,44 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package inheritance;
+package com.branay;
 
 /**
  *
  * @author ADAMSEN BRANAY
  */
-public class Inheritance {
+public class Main {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        child adam = new child();
-        child bretlee=new child();
         
-        adam.name="Adamsen";
-        adam.age=23;
-        adam.get_age();
+        Airpods apple = new Airpods();
+        Airpods boat = new Airpods();
         
-        adam.parent_name="Raja";
-        adam.parent_age=60;
-        adam.get_parent();
+        apple.brand = "APPLE";
+        boat.brand = "BOAT";
+        
+        apple.price = 5000;
+        boat.price= 6000;
+        
+        apple.sound();
+        apple.cost();
+        
+        boat.sound();
+        boat.cost();
         
         
         
-        bretlee.name="Bretlee";
-        bretlee.age=17;
-        bretlee.get_age();
+        
+        
+        
+        
+        
+        
+        
         
     }
     
