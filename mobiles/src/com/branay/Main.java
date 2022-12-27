@@ -1,3 +1,4 @@
+
 package com.branay;
 
 
@@ -5,13 +6,12 @@ public class Main {
 
     
     public static void main(String[] args) {
+        Samsung apple = new Samsung();
         
-        German obj = new German();
+        apple.camera();
+        apple.ram();
+        apple.chip();
         
-        obj.bark();
-        
-        obj.eat();
-        obj.sleep();
     }
     
 }

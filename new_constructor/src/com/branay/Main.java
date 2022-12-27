@@ -1,3 +1,4 @@
+
 package com.branay;
 
 
@@ -5,13 +6,11 @@ public class Main {
 
     
     public static void main(String[] args) {
+        Places obj = new Places();
         
-        German obj = new German();
+        obj.tour();
         
-        obj.bark();
-        
-        obj.eat();
-        obj.sleep();
+                
     }
     
 }

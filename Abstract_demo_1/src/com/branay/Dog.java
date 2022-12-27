@@ -10,6 +10,6 @@ public abstract class Dog {
     abstract void bark();
     
     public void runs(){
-        System.out.println("oooooo");
+        System.out.println("Boooow");
     }
 }
