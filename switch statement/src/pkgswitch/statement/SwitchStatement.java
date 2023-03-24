@@ -15,7 +15,7 @@ public class SwitchStatement {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int a=28;
+        int a=1;
         switch (a){
             case 1:
                 System.out.println("one");
