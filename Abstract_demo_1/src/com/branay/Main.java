@@ -12,6 +12,8 @@ public class Main {
         
         obj.eat();
         obj.sleep();
+        obj.play();
+        obj.runs();
     }
     
 }

@@ -1,9 +1,6 @@
 package com.branay;
 
-/**
- *
- * @author ADAMSEN BRANAY
- */
+
 public class Apple {
     
     Apple(){
