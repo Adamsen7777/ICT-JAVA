@@ -225,3 +225,23 @@
 /StringPattern/build/
 /Zpattern/nbproject/private/
 /Zpattern/build/
+/datatypes demo/nbproject/private/
+/datatypes demo/build/
+/scanner input demo/nbproject/private/
+/scanner input demo/build/
+/demo calculator/nbproject/private/
+/demo calculator/build/
+/increment operators demo/nbproject/private/
+/increment operators demo/build/
+/if else demo/nbproject/private/
+/if else demo/build/
+/logical operators demo/nbproject/private/
+/logical operators demo/build/
+/switch statement demo/nbproject/private/
+/switch statement demo/build/
+/while demo/nbproject/private/
+/while demo/build/
+/for loop demo/nbproject/private/
+/for loop demo/build/
+/do while loop demo/nbproject/private/
+/do while loop demo/build/
